@@ -1,5 +1,5 @@
 # Name for our variable
-name = "\tChristopher\tHartzitelli\tis\tMy\tAlternate\tItalian\tIdentity"
+name = "\tChristopher\tHartzitelli\n\tis\tMy\tAlternate\tItalian\tIdentity"
 
 # Printing my fake Italian Name with rstrip
 print(name.rstrip())
