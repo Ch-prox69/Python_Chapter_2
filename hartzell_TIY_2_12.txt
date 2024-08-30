@@ -1,0 +1,44 @@
+# The poem
+
+The Zen of Python, by Tim Peters
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+
+# Explanation for each Line
+
+Beautiful is better than ugly - Code should be written in a way that is aesthetically pleasing and clean.
+Explicit is better than implicit - Code should be clear and straightforward.
+Simple is better than complex - Aim for simplicity in your code.
+Complex is better than complicated - Sometimes complexity is unavoidable, but it should not result in convoluted code
+Flat is better than nested - Avoid deep nesting in your code.
+Sparse is better than dense - Code should be spread out and not overly condensed
+Readability counts - Code should be written in a way that is easy to read and understand
+Special cases aren't special enough to break the rules - Don’t make exceptions to coding conventions or rules for special cases
+Although practicality beats purity - Practicality should take precedence over striving for an ideal or pure solution
+Errors should never pass silently - Errors should be handled explicitly
+Unless explicitly silenced - It’s acceptable to silence errors if it’s done intentionally and explicitly
+In the face of ambiguity, refuse the temptation to guess - If the code or situation is ambiguous, don’t make assumptions
+There should be one-- and preferably only one --obvious way to do it - Aim for a single, clear way to accomplish tasks in your code.
+Although that way may not be obvious at first unless you're Dutch - This line is a playful nod to Guido van Rossum, the Dutch creator of Python
+Now is better than never - It’s better to act and make progress now rather than postponing indefinitely
+Although never is often better than right now - While taking action is generally better than delaying, some actions might be better off not taken immediately if they could lead to suboptimal results or if they’re not well thought out.
+If the implementation is hard to explain, it's a bad idea - If you can’t clearly articulate how your code works, it might be overly complex or convoluted.
+If the implementation is easy to explain, it may be a good idea - A solution that is easy to explain is likely to be simpler and more effective.
+Namespaces are one honking great idea -- let's do more of those! - Namespaces are a valuable concept for organizing and managing code.
